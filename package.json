@@ -1,8 +1,8 @@
 {
-  "name": "to-do",
+  "name": "todo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "node.js to do app",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
